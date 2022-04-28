@@ -1,1 +1,1 @@
-# video-hist-enhancer
+# Video Histogram Enhancer
